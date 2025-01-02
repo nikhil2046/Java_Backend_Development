@@ -1,4 +1,4 @@
-package org.example.programs;
+package com.exercise.programs;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
