@@ -1,4 +1,4 @@
-package com.exercise.programs.designPattern.builder;
+package com.exercise.programs.designPattern.creational.builder;
 
 public class User {
     private String userId;
